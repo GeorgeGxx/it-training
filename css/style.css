@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body{
+     /* Para que funcione correctamente en Smartphones y Tablets */
+     height:100%;
+}
+body {
+	background:url(../img/website.jpg) no-repeat fixed center center #333;
+	background-size: cover;
+}
